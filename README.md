@@ -4,7 +4,8 @@
 
 An IoT-based smart device to help users take medications on time with timely reminders and remote monitoring.
 <p align="center">
-<img width="350" height="350" alt="WhatsApp Image 2026-06-12 at 11 25 26 PM" src="https://github.com/user-attachments/assets/71009b8f-42d5-44c3-b234-f98bea4fb9d9" />
+<img width="360" height="360" alt="WhatsApp Image 2026-06-13 at 12 09 50 AM" src="https://github.com/user-attachments/assets/72480cc0-bd11-44f0-828d-54582d31a8f7" />
+
 </p>
 
 ## 🎯 Project Overview
