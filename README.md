@@ -3,8 +3,9 @@
 **My second mini-project** — Built during 2nd semester at **P.A. College of Engineering, Mangalore**.
 
 An IoT-based smart device to help users take medications on time with timely reminders and remote monitoring.
+<p align="center">
 <img width="350" height="350" alt="WhatsApp Image 2026-06-12 at 11 25 26 PM" src="https://github.com/user-attachments/assets/71009b8f-42d5-44c3-b234-f98bea4fb9d9" />
-
+</p>
 
 ## 🎯 Project Overview
 
@@ -41,7 +42,7 @@ It clearly showed my progress in just one semester — moving from basic hardwar
 ## 🔗 Links
 
 - **Full Project Report**: [Smart Medicinal Reminder Report.pdf](https://drive.google.com/file/d/1ToFa030doMJLHH_1xuawGg1L7lSJMNRW/view?usp=drivesdk)
-- LinkedIn Post: [https://www.linkedin.com/posts/mohammed-affan-79648934a_iot-embeddedsystems-esp8266-activity-7429895027952238592-Zh3_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFdHmSIBeqaWhdYUc5Wtk6K2MB35X1BTDFs]
+- **LinkedIn Post**: [View Post](https://www.linkedin.com/posts/mohammed-affan-79648934a_iot-embeddedsystems-esp8266-activity-7429895027952238592-Zh3_)
 - College: P.A. College of Engineering, Mangalore
 
 ---
