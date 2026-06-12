@@ -4,7 +4,7 @@
 
 An IoT-based smart device to help users take medications on time with timely reminders and remote monitoring.
 <p align="center">
-<img width="360" height="360" alt="WhatsApp Image 2026-06-13 at 12 09 50 AM" src="https://github.com/user-attachments/assets/72480cc0-bd11-44f0-828d-54582d31a8f7" />
+<img width="560" height="360" alt="WhatsApp Image 2026-06-13 at 12 09 50 AM" src="https://github.com/user-attachments/assets/72480cc0-bd11-44f0-828d-54582d31a8f7" />
 
 </p>
 
@@ -48,4 +48,3 @@ It clearly showed my progress in just one semester — moving from basic hardwar
 
 ---
 
-**Made with ❤️ by Mohammed Affan**
