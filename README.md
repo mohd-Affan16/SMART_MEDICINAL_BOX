@@ -3,9 +3,8 @@
 **My second mini-project** — Built during 2nd semester at **P.A. College of Engineering, Mangalore**.
 
 An IoT-based smart device to help users take medications on time with timely reminders and remote monitoring.
+<img width="350" height="350" alt="WhatsApp Image 2026-06-12 at 11 25 26 PM" src="https://github.com/user-attachments/assets/71009b8f-42d5-44c3-b234-f98bea4fb9d9" />
 
-(<img width="360"  alt="WhatsApp Image 2026-06-12 at 10 35 05 PM" src="https://github.com/user-attachments/assets/092192db-3e41-4f4e-9060-4830a9c5c715" />
-)
 
 ## 🎯 Project Overview
 
